@@ -1,0 +1,21 @@
+
+            ------------------------------------
+                Detected URL: israel.postal-fees.info
+            ------------------------------------
+Categories: No data
+        
+        ---------------- HTTPS Certificate ----------------
+Https certificate: Yes 
+Last https certificate date: 2024-03-26 18:12:08
+
+        
+        ------------- Antiviruses scan results ------------
+Last analysis date: 2024-03-26 18:12:06
++-------------+--------------+--------------+------------+-----------+
+|   malicious |   suspicious |   undetected |   harmless |   timeout |
++=============+==============+==============+============+===========+
+|           0 |            1 |           27 |         62 |         0 |
++-------------+--------------+--------------+------------+-----------+
+        
+        ---------------------- Summary ---------------------
+Risk Level: Medium Risk

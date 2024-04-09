@@ -1,0 +1,20 @@
+
+            ------------------------------------
+                Detected URL: googele.com
+            ------------------------------------
+Categories: Malicious, Phishing, Suspicious (alphaMountain.ai) / ads / spyware and malware / Phishing and Other Frauds / parked domain
+        
+        ---------------- HTTPS Certificate ----------------
+Https certificate: No
+
+        
+        ------------- Antiviruses scan results ------------
+Last analysis date: 2024-04-05 07:28:42
++-------------+--------------+--------------+------------+-----------+
+|   malicious |   suspicious |   undetected |   harmless |   timeout |
++=============+==============+==============+============+===========+
+|           7 |            0 |           23 |         60 |         0 |
++-------------+--------------+--------------+------------+-----------+
+        
+        ---------------------- Summary ---------------------
+Risk Level: High Risk

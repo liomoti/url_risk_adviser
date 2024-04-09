@@ -1,0 +1,22 @@
+ads
+parked domain
+spyware
+spyware and malware
+malware
+Phishing and Other Frauds
+Malicious
+Phishing
+Suspicious
+Advanced Malware Command and Control
+Advanced Malware Payloads
+Bot Networks
+Compromised Websites
+Malicious Embedded iFrame
+Keyloggers
+Malicious Embedded Link
+Malicious Web Sites
+Mobile Malware
+Potentially Exploited Documents
+Potentially Unwanted Software
+Suspicious Embedded Link
+Emerging Exploits
