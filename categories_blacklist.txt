@@ -1,4 +1,3 @@
-ads
 parked domain
 spyware
 spyware and malware
@@ -20,3 +19,5 @@ Potentially Exploited Documents
 Potentially Unwanted Software
 Suspicious Embedded Link
 Emerging Exploits
+Phishing & fraud
+Scams
