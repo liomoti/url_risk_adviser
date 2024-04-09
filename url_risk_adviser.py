@@ -219,7 +219,7 @@ Risk Level: {self.risk_level_color}{self.risk_level}{Style.RESET_ALL}
         """
         This method writes the report content to a text file.
         """
-        filename = self.generate_filename()
+        filename = f"reports/{self.generate_filename()}"
         # Remove unwanted ASCII characters (comes from colorama)
         chars_pattern = re.compile(r'\x1b\[[0-9;]*m')
         self.report_data = chars_pattern.sub('', self.report_data)

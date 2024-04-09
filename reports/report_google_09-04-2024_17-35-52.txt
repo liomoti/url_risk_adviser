@@ -1,0 +1,21 @@
+
+            ------------------------------------
+                Detected URL: google.co.il
+            ------------------------------------
+Categories: search engines / Search Engines/Portals / searchengines / search engines & portals / search engines and portals
+        
+        ---------------- HTTPS Certificate ----------------
+Https certificate: Yes 
+Last https certificate date: 2024-04-08 00:06:16
+
+        
+        ------------- Antiviruses scan results ------------
+Last analysis date: 2024-04-08 00:01:10
++-------------+--------------+--------------+------------+-----------+
+|   malicious |   suspicious |   undetected |   harmless |   timeout |
++=============+==============+==============+============+===========+
+|           0 |            0 |           23 |         67 |         0 |
++-------------+--------------+--------------+------------+-----------+
+        
+        ---------------------- Summary ---------------------
+Risk Level: No Risk
