@@ -1,0 +1,21 @@
+
+            ------------------------------------
+                Detected URL: www.google.com
+            ------------------------------------
+Categories: searchengines / search engines & portals / search engines / search engines and portals
+        
+        ---------------- HTTPS Certificate ----------------
+Https certificate: Yes 
+Last https certificate date: 2024-04-09 01:06:35
+
+        
+        ------------- Antiviruses scan results ------------
+Last analysis date: 2024-04-09 01:06:35
++-------------+--------------+--------------+------------+-----------+
+|   malicious |   suspicious |   undetected |   harmless |   timeout |
++=============+==============+==============+============+===========+
+|           0 |            0 |           19 |         71 |         0 |
++-------------+--------------+--------------+------------+-----------+
+        
+        ---------------------- Summary ---------------------
+Risk Level: No Risk
