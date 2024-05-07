@@ -1,7 +1,7 @@
 # URL Risk Adviser
 Made by Moti Shaul
 <br><br>
-The URL Risk Adviser script leverages data from <b>VirusTotal</b> API to <b>analyze the safety of URLs</b>. <br>
+The URL Risk Adviser script leverages data from <b><a href="https://www.virustotal.com/"> VirusTotal API </a></b>to <b>analyze the safety of URLs</b>. <br>
 By querying VirusTotal's API, the script gives users valuable insights into the <b>potential risks</b> associated with a given URL. <br>
 The script assists users in <b>proactively protecting</b> themselves against <b>malware, phishing attacks, and other online threats</b>. <br> <br>
 Once the user sets the API Key and provides the URL, the script fetches data about the URL. <br>
